@@ -1,6 +1,6 @@
-# pdf-stuff
+# PDF Stuff
 Do things with pdf files that usually you'd need either some other software or some website to do.
-## merging
+## Merging 
 Combine pdf files into one.
 ### Example
 #### Input
